@@ -8,7 +8,6 @@ Prashna as a quiz platform generates questions using the OpenAI API. It provides
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Prerequisites
