@@ -40,7 +40,7 @@ Before you begin, ensure you have the following installed:
 4. Create a `.env` file in the frontend directory and add the backend server URL:
 
    ```env
-   REACT_APP_BACKEND_URL=http://localhost:5000
+   REACT_APP_BACKEND_URL=[enter link to localhost]
    ```
 
 5. Run the frontend:
